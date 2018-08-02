@@ -327,7 +327,7 @@ Agile Summit MOXA共同筆記
 * Spotify Model
     - {%youtube dtzPtFi8jiQ %}
     - {%youtube X3rGdmoTjDc %}
-    - {%pdf https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf %}
+    - https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf
 * 成長上限模式
 * 捨本逐末模式
 * Theory X and Theory Y
