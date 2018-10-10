@@ -5,7 +5,7 @@ type: "about"
 ---
 
 
-![](/about/my2.png)
+<!-- ![](/about/my2.png) -->
 
 
 
