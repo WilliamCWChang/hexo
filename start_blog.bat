@@ -1,7 +1,7 @@
-rem git add source
-rem git commit
-rem git pull
-rem git push
+git add source
+git commit -m "source change"
+git pull
+git push
 hexo server --draft
 
 
