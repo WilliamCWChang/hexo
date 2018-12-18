@@ -9,6 +9,199 @@ type: "about"
 
 
 
+2008魔術方塊台灣區決賽
+
+
+
+
+
+大一寒假-8051自走車課程
+
+大一下-SolidWork(照片)
+
+大一升大二暑假-仿生機器人營隊-田間機器人大賽(坦克車製作)
+
+
+大二上-8051電路學習-仿生機器人組長(RC紅外線改良)
+
+大二寒假-
+杜鵑花節機器人舞蹈準備-
+8051自走車課程
+網頁學習
+機器人跳舞程式編寫
+Html、PHP、
+
+大二下
+仿生機器人組長(足球機器人大賽、相撲機器人大賽)
+
+大二生大三暑假 
+網管小組成員
+405林達德教授實驗室專題聲
+仿生機器人營隊組長(營隊活動)
+第四屆田間機器人競賽(塑膠板車)
+C++中階課程(打磚塊程式)
+Builder C++
+
+
+
+大三上 
+Linux作業系統
+OpenGL專題
+網路架構學習
+Linux作業系統練習(參考課本為鳥哥Linux私房菜)
+
+
+大三寒假           
+國科會報告－外骨骼機器人    
+
+大三下 
+機器人專題
+生物產業機械
+微處理機原理與應用
+感測原理與應用
+自動控制    
+DMP詹營全公司實習(四旋翼四足獸)
+OpenCV專題    
+3D printer
+RD-100 名片電腦
+
+
+大三升大四暑假        
+DMP詹營全公司實習
+新光保全機器人競賽，佳作
+Arduino練習
+Blog編寫
+Beta 寵物機器人製作    
+電腦控制機器人方式
+RS232傳輸
+使用藍芽模組
+H橋馬達控制電路
+
+大四上 
+機電整合專題
+Raspberry Pi 學習
+LabVIEW學習
+MatLab學習
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+https://www.youtube.com/watch?v=X6rtj3q66Qo
+httpswww.youtube.comwatchv=59dvrZPVxs4
+https://www.youtube.com/watch?v=9zu6J8V4Sf8
+https://www.youtube.com/watch?v=mSXo2aStT78
+https://www.youtube.com/watch?v=CCRtZCKagHQ
+https://www.youtube.com/watch?v=2P90NuzxA80
+https://www.youtube.com/watch?v=CCRtZCKagHQ
+http://tcgwww.taipei.gov.tw/ct.asp?xItem=62431991&ctNode=83343&mp=111071M
+http://www.chinatimes.com/newspapers/20130818000280-260102
+https://www.youtube.com/watch?v=EItZwLYQcCU
+
+大家好，我是張家瑋，在2013的四月初開始建設這個網站。
+但是整個網站在2015的五月中整個被我自己誤刪資料庫...，
+所以目前大家看到的是重新架設後的新站，之後會陸陸續續
+把之前比較不錯的文章重新整理上傳。
+
+架站目的是因為在
+讀大學以前，幾乎沒接觸過機器人和程式設計課程，但自從
+到台大生機系就讀之後，對機器人和一些科技相關的領域有些
+興趣，後來發現在台灣想要學習機器人相關的訊息不容易，對
+於一個初學者而言，只能漫無目的的在網路上蒐集資料，因此
+我打算從這個網站出發，慢慢蒐集一些關於機器人的消息，給
+許多和我一樣正準備踏入這領域的人，第一塊墊腳石。目前除
+了慢慢架構這個網站之外，還有在Facebook上面弄一個小社團(
+Robot)來和大家快速分享我看到的資訊，如果大家也興趣也可以
+到FB加我為好友，一起討論最新的機器人訊息。
+
+專長：電機、
+機械、資工，不過都是會一點點而已。
+
+
+為什麼會想要架這個網站???
+我大學就讀的學校是臺灣大學的生物產業機電工程學系，
+一般簡稱台大生機系，B98級畢業，在剛入學的那一年寒假
+，理所當然該出國玩的出國玩，該準備好好過年的也都各自散
+去，而我的故事正好起於那個冬天冷颼颼的日子裡，像我一樣
+的普通大學生在高中
+
+
+若要談起為什麼我會開始玩機器人，就得提到大一所參加過的
+8051寒假體驗營，那是一堂系上所開設的課外體驗活動，歡迎
+有興趣的大一新生來參加，雖然在那次的8051體驗營裡面，我
+做出來的8051自走車根本不會動，但是這樣的失敗卻刺激我不斷
+地參加更多機器人相關的活動。
+
+
+
+
+後來我又參加幾次農機學會所舉辦的田間機器人大賽和新光保全
+智慧型機器人比賽，進而得到更多豐富的體驗和想法，能夠擁有這
+樣的體驗實在不容易，這並非每個人都能夠得到這樣的經費和機
+會去享受的，因此我希望能夠藉由貢獻一些微薄之力來一起營造
+出歡樂的DIY風氣。
+
+大學專業學習課程
+
+大一：C++程式語言、工程圖學
+大二：機械加工法、應用力學、工程材料、材料力學、電工學、油氣壓
+大三：熱傳、流力、電子學、微處理機、感測原理、自動控制
+大四：機電整合
+
+
+
+COMPUTER PROGRAMMING LANGUAGE
+INTRODUCTION TO BIO-INDUSTRIAL MECHATRONICS ENGINEERING
+ENGINEERING DRAWING AND COMPUTER GRAPHICS
+ORGANIC CHEMISTRY
+THERMODYNAMICS
+MACHINE SHOP PRACTICE
+INTRODUCTION TO COMPUTER SCIENCE
+APPLIED MECHANICS
+ENGINEERING MATERIALS
+Engineering Mathematics
+Strength of Materials
+Mechanism
+Introduction to Electrical Engineering
+Hydraulics and Penumatics
+Heat Transfer
+Fluid Mechanics
+Electronics
+Design of Machine Elements
+Special Topics for Undergraduate
+Bio-industrial Machinery
+Pprinciples and Applications of Microprocessor
+Measurement Principles and Applications
+Special Topic on Embedded Robotics
+Automatic Control
+Mechatronics and Laboratory
+
+
+
+---
+
+
+
+
+
+
+
 
 
 # 張家瑋(LOCO)
